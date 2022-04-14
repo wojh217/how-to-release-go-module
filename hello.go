@@ -4,7 +4,7 @@ import "fmt"
 
 // Hello says hello.
 func Hello() error {
-	fmt.Println("Hello go mod! v1.0.0")
+	fmt.Println("Hello go mod! v3.0.0")
 	return nil
 }
 
